@@ -9,5 +9,6 @@ public class Clase_Main {
             UNIAJC.imprimirLibro();
             System.out.println("\nInformación de la Novela:");
             Nov.imprimirLibro();
+       
     }
 }
